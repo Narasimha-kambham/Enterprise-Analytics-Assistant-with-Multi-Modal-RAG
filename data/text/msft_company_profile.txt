@@ -1,0 +1,11 @@
+COMPANY PROFILE: Microsoft Corporation
+=========================================
+SECTOR: Technology
+INDUSTRY: Software - Infrastructure
+MARKET CAP: $3,246,068,596,736
+
+BUSINESS SUMMARY:
+Microsoft Corporation develops and supports software, services, devices and solutions worldwide. The Productivity and Business Processes segment offers office, exchange, SharePoint, Microsoft Teams, office 365 Security and Compliance, Microsoft viva, and Microsoft 365 copilot; and office consumer services, such as Microsoft 365 consumer subscriptions... [Full Summary Included]
+
+-----------------------------------------
+Note: This data serves as the 'Structured Context' for the RAG pipeline.
