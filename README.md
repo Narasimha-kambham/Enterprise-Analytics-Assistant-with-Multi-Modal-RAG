@@ -16,16 +16,21 @@ A two-stage retrieval pipeline — combining dense vector search with cross-enco
 This implementation emphasizes robustness, configurability, and practical enterprise constraints such as OCR fallback, caching, and persistent indexing.
 
 ---
+
 ## System Demo
 
-This video demonstrates the end-to-end workflow of the system, including:
+This video demonstrates the full workflow of the Enterprise Multi-Modal RAG system.
 
-- Multi-modal data ingestion (PDF, CSV, images, text)
-- Semantic indexing using embeddings and FAISS
-- Two-stage retrieval with cross-encoder reranking
-- Grounded analytical response generation using Gemini
+<p align="center">
+  <a href="https://youtu.be/j5cWtbepxfc">
+    <img src="https://img.youtube.com/vi/j5cWtbepxfc/maxresdefault.jpg" width="600">
+  </a>
+</p>
 
-▶ Demo: https://drive.google.com/file/d/1NhVQe9b96DXQa6m96kZZ0zxHftPR0YZK/view?usp=drive_link
+<p align="center">
+  ▶ Click the thumbnail to watch the full demo
+</p>
+
 ---
 
 ## 2. Alignment with Evaluation Requirements
@@ -372,4 +377,5 @@ This system emphasizes:
 * **Cost-Aware Architecture:** Local embeddings and strategic result caching.
 
 It demonstrates how multi-modal enterprise data can be unified into a consistent semantic retrieval pipeline while maintaining robustness against noisy inputs (scanned PDFs, charts, tables).
+
 
